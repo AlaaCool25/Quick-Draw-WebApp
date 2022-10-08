@@ -1,0 +1,19 @@
+body {
+
+    background-color: plum;
+
+}
+
+#Score {
+
+    font-size: 20px;
+    margin-left: 20px;
+
+}
+
+#Timer {
+
+    font-size: 20px;
+    margin-right: 10px; 
+
+}
